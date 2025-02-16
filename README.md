@@ -1,6 +1,8 @@
 # CircuitDatasetBC
 This repository is electrical circuit datasets for spectral-type graph convolutions with boundary conditions.
 
+Please see our technical report: https://ken.ieice.org/ken/paper/20241017pcFo/
+
 ## Environment
 ```
 > pip install -r requirements.txt
