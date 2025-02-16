@@ -1,2 +1,2 @@
-# CircuitDataset
+# CircuitDatasetBC
 circuit datasets for spectral-type graph convolutions with boundary conditions
